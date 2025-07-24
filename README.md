@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm 👋 Hasby Maulana</h1>
 
 <p align="center">
-  <a href="https://github.com/username">
+  <a href="https://github.com/gonemaul">
     <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+%7C+Laravel+%2BSpecialist;Building+clean+and+simple+websites;Let's+build+together!&center=true&width=500&height=45&color=0ea5e9&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🔨 Building websites with **Laravel + React**
+- 🔨 Building websites with **Laravel + Tailwind**
 - 🎯 Target market: Small to medium businesses
 - ⚡ Currently growing a small software agency
 - 🧠 Tech I love: `Laravel`, `React`, `Tailwind`, `Supabase`
@@ -39,22 +39,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🌐 Website UMKM](https://github.com/username/website-umkm) | Landing page simpel untuk bisnis lokal | Laravel + Blade |
-| [🛒 Online Order System](https://github.com/username/order-system) | Sistem booking dan pemesanan | Laravel + React |
-| [📊 Admin Dashboard](https://github.com/username/admin-dashboard) | Dashboard interaktif dan modern | React + Tailwind |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=default"/>
-</p>
+| [🏨 Stay Eazy](https://github.com/gonemaul/StayEazy-api) | API simpel untuk sistem booking hotel | Laravel + Sanctum |
+| [🛒 Mini E-Commerce](https://github.com/gonemaul/mini_e-commerce_v2) | Mini E-Commerce | Laravel + Blade |
+| [📊 Manajemen Toko](https://github.com/gonemaul/) | Manajemen Toko | Laravel + Tailwind |
 
 ---
 
